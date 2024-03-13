@@ -1,2 +1,2 @@
-# multi_threading
-multithreading games
+# embedded c
+my experiments with c programming and embedded c concepts
